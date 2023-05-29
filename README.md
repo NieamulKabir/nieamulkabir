@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nieamulkabir&label=Profile%20views&color=0e75b6&style=flat" alt="nieamulkabir" /> </p>
-  🌱 I’m currently learning **Redux**
+  -🌱 I’m currently learning **TypeScript**
   
 - 💬 Ask me **JavaScript,React,NodeJS about**
 
