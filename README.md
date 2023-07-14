@@ -6,7 +6,7 @@
   
 - 💬 Ask me **JavaScript,React,NodeJS about**
 
-- 📫 How to reach me **kabir000079@gmail.com**
+- 📫 How to reach me **nieamulkabir1924@gmail.com**
 
   👨‍💻 All of my projects are available at (https://nieamul-kabir-portfolio.netlify.app/)
 
